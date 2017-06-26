@@ -101,7 +101,7 @@ activityrecognition '@' smartlab.ws
 * fBodyBodyGyroJerkMag-mean()
 * fBodyBodyGyroJerkMag-std()
 
-The numeric valures represents the Mean value (mean) and Standard deviation (std).
+The numeric values represents the Mean value (mean) and Standard deviation (std).
 
 ## R Code
 
