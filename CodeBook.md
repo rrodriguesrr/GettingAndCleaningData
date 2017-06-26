@@ -94,3 +94,12 @@ activityrecognition '@' smartlab.ws
 * fBodyBodyGyroMag-std()
 * fBodyBodyGyroJerkMag-mean()
 * fBodyBodyGyroJerkMag-std()
+
+## R Code
+
+THe following R Code was built in order to create the TidyDataset.txt file
+
+```R
+## Setting the working directory
+setwd("C:/Users/rrodriguesrr/Documents/Courses/Data Science/3 - Getting and Cleaning Data/WorkDirectory/data/Assignment")
+```
