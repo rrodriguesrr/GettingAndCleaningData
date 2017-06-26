@@ -101,6 +101,8 @@ activityrecognition '@' smartlab.ws
 * fBodyBodyGyroJerkMag-mean()
 * fBodyBodyGyroJerkMag-std()
 
+The numeric valures represents the Mean value (mean) and Standard deviation (std).
+
 ## R Code
 
 The following R Code was built in order to create the TidyDataset.txt file
