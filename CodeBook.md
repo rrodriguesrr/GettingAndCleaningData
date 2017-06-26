@@ -165,7 +165,6 @@ TidyDataset <- dataset %>%
 write.table(TidyDataset, "TidyDataset.txt", row.names = FALSE)
 ```
 
-##Author
+## Author
 
-Rubens Rodrigues
-Linkedin: https://www.linkedin.com/in/rrodriguesrr/
+Rubens Rodrigues - Linkedin: https://www.linkedin.com/in/rrodriguesrr/
