@@ -24,7 +24,13 @@ activityrecognition '@' smartlab.ws
 ### Categorical
 
 * subject_id: An identifier of the subject who carried out the experiment;
-* activity: Activity name.
+* activity: Activity name in 6 levels as follows:
+  - 1 WALKING
+  - 2 WALKING_UPSTAIRS
+  - 3 WALKING_DOWNSTAIRS
+  - 4 SITTING
+  - 5 STANDING
+  - 6 LAYING
 
 ### Numeric
 
